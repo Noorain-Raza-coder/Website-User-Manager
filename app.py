@@ -1,4 +1,4 @@
-from flask import Flask , render_template , request
+from flask import Flask , render_template , request , redirect
 import mysql.connector
 
 app = Flask(__name__)
@@ -32,7 +32,8 @@ def login():
         return render_template("login.html" , msg = "No user exists with this username and password.")
 
     cnn.close()
-    return "Welcome to our website."
+    # return "Welcome to our website."
+    return redirect("https://noorain.dcms.site/")
 
 
 
