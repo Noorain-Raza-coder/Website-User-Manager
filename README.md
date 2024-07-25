@@ -1,13 +1,13 @@
 
-# Website User Manager
+# Website User Manager 👨🏻‍🔧
 
 
 
 
-## Project Description:
+## Project Description: 👨‍🏫
 - Website User Manager is a web application integrated into my portfolio website to manage user interactions and visits effectively. 
 - It provides a user management system that allows visitors to register, log in, and navigate the site securely.
-## Features:
+## Features: 💎
 
 - **User Authentication:** Users can register and log in securely to access the website.
 - **Registration:** New users can create an account by providing their name, email, and password.
@@ -16,7 +16,7 @@
 - **API Endpoint:** Handles requests and responses between the frontend and backend using Flask's routing capabilities.
 
 
-## Tools and Technologies Used:
+## Tools and Technologies Used: 🛠
 
 - **Frontend: HTML , CSS**
 - **Backend: Python**
@@ -24,7 +24,7 @@
 - **Database: MySQL** - Stores user data securely.
 
 
-## Installation Instructions
+## Installation Instructions 🛣
 
 1. Clone the repository:
 
@@ -46,7 +46,7 @@
 
 
 
-## Usage Instructions
+## Usage Instructions 🛣
 
 1. Run the application:
 ```bash
@@ -61,7 +61,7 @@
 - If you have an account, log in using your credentials to access the portfolio website.
 - If you don't have an account, click on "Create Account" to register.
 - After registration, you will be redirected to the login page.
-## Results:
+## Results: 🙌
 Project Demo Link :
 https://github.com/user-attachments/assets/578174f3-4c6d-4bf2-88be-9eaf773fed76
 
@@ -75,7 +75,7 @@ Webapplication Screenshots:
 - You are Welcome To my Portfolio :
 ![Screenshot (3123)](https://github.com/user-attachments/assets/062fdd2d-6f22-4502-8c37-2903dd252dc7)
 
-**THANK YOU**
+**😍THANK YOU😍**
 
 
 
